@@ -157,6 +157,4 @@ Le transpondeur dans le corps du golem d'Adamantine va attirer Ayleth et les PJ 
 A chaque fois qu'Ayleth subit des dégâts, les PJ auront des hallucinations de la simulation qui se brise de plus en plus. Lorsqu'elle meurt, ces derniers se retrouvent dans une immense pièce blanche (reconnaisse le Zariman mais en meilleur état) avec une gigantesque orbe d'énergie (comme un cephalon) qui les regarde.
 Ayleth ne protégeant plus la simulation, il est l'heure pour la Volonté Suprême d'en finir avec celle-ci.
 
-TEST
-
 # Session 3
